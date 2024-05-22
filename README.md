@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an alumni of UTFPR, working on open source Go projects, check out mr repositories
+I'm an alumni of UTFPR, working on open source Go projects, check out [my repositories](https://github.com/f01c33?tab=repositories)
 
 [![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=f01c33)](https://github.com/f01c33/github-readme-stats)
 <!--
