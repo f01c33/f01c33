@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 I'm an alumni of UTFPR, working on open source Go projects, check out mr repositories
+
 [![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=f01c33)](https://github.com/f01c33/github-readme-stats)
 <!--
 **f01c33/f01c33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
