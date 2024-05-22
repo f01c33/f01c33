@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an alumni of UTFPR, working on open source Go projects, I've worked on Backend APIs, bad frontends (I'm not good on frontends), GUIs, TUIs, CLI tools, Computer Vision, Data Structures, Network scanning, Games and a few AI projects (not FOSS) check out [my repositories](https://github.com/f01c33?tab=repositories), you can reach me on felchar<at>proton.me.
+I'm an alumni of UTFPR, working on open source Go projects, I've worked on Backend APIs, bad frontends (I'm not good on frontends), GUIs, TUIs, CLI tools, Computer Vision, Data Structures, Network scanning, Games and a few AI projects (not FOSS) check out [my repositories](https://github.com/f01c33?tab=repositories), you can reach me on felchar @ proton.me.
 
 ![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=f01c33&show_icons=true&bg_color=00000000)
 <!--
